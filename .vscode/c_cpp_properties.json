@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/ext/lib-stm32drv/include",
+                "${workspaceFolder}/ext/lib-stm32drv",
+                "${workspaceFolder}/ext/lib-stm32drv/drv",
+                "/usr/local/include"
+            ],
+            "defines": ["DEBUG", "STM32F429xx"],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}

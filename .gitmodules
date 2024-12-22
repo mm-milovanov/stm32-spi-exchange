@@ -1,0 +1,3 @@
+[submodule "ext/lib-stm32drv"]
+	path = ext/lib-stm32drv
+	url = git@git.navigator.local:vshmatovskiy/lib-stm32drv.git

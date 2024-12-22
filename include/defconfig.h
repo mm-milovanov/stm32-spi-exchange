@@ -1,0 +1,1 @@
+../ext/lib-stm32drv/defconfig/stm32f429i-disk1_defconfig.h
